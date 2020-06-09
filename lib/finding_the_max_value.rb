@@ -3,6 +3,8 @@
   #array[-1]
 # end
 
+# both works but below is looping
+
 def find_max_value(array)
   count = 0 
   
