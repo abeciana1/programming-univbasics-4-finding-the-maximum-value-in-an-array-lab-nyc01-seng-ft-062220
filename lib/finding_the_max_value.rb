@@ -1,5 +1,14 @@
+#def find_max_value(array)
+ # array.sort!
+  #array[-1]
+# end
+
 def find_max_value(array)
-  array.sort!
-  array[-1]
+  count = 0 
   
-end
+  while count < array.length do
+    
+    
+    count += 1 
+  
+end 
